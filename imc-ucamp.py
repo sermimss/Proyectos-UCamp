@@ -9,7 +9,7 @@ print("sigue las instrucciones o preciona enter para salir.\n")
 
 #si el usuario continua:
 #se comienza con la captura de datos
-cliente = input("CUAL ES TU NOMBRE?\n")
+cliente = input("CUAL ES TU NOMBRE Y APELLIDOS?\n")
 
 #sentencia if para validar la decicion del usuario.
 if cliente != "":   
@@ -138,3 +138,4 @@ if E >= 18:
 else:
     print("\nLO SIENTO: se deve ser mayor de edad para usar la calculadora de imc.")
     print("hasta luego.")
+
