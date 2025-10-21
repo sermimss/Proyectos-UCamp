@@ -1,0 +1,34 @@
+{
+    "25": {
+        "nombre": "pikachu",
+        "altura": 0.12,
+        "peso": 27.21,
+        "tipo": "electric",
+        "habilidad": "static",
+        "movimiento": "mega-punch"
+    },
+    "1": {
+        "nombre": "bulbasaur",
+        "altura": 0.21,
+        "peso": 31.29,
+        "tipo": "grass",
+        "habilidad": "overgrow",
+        "movimiento": "razor-wind"
+    },
+    "151": {
+        "nombre": "mew",
+        "altura": 0.12,
+        "peso": 18.14,
+        "tipo": "psychic",
+        "habilidad": "synchronize",
+        "movimiento": "pound"
+    },
+    "150": {
+        "nombre": "mewtwo",
+        "altura": 0.61,
+        "peso": 553.29,
+        "tipo": "psychic",
+        "habilidad": "pressure",
+        "movimiento": "mega-punch"
+    }
+}
